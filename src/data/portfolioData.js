@@ -349,7 +349,7 @@ export const portfolioData = {
       category: "Development",
       type: "Competition",
       icon: "fas fa-lightbulb",
-      level: "Bronze"
+      level: "Honorable Mention"
     },
     {
       id: 7,
@@ -360,7 +360,7 @@ export const portfolioData = {
       category: "Academic",
       type: "Competition",
       icon: "fas fa-award",
-      level: "Honorable Mention"
+      level: "Bronze"
     }
   ]
   ,
