@@ -339,21 +339,11 @@ export const portfolioData = {
       type: "Competition",
       icon: "fas fa-trophy",
       level: "Bronze"
-    },
+    }
+    ,
     {
       id: 6,
-      title: "Third Prize in the Creative Software Contest",
-      organization: "Department of Education and Training",
-      date: "2021",
-      description: "Awarded third prize for developing innovative software in the provincial creative software contest.",
-      category: "Development",
-      type: "Competition",
-      icon: "fas fa-lightbulb",
-      level: "Honorable Mention"
-    },
-    {
-      id: 7,
-      title: "Encouragement Prize in the Provincial Youth Informatics Contest",
+      title: "Third Prize in the Provincial Youth Informatics Contest",
       organization: "Department of Education and Training",
       date: "2021",
       description: "Received the encouragement prize in the provincial-level youth informatics contest, recognizing effort and participation.",
@@ -361,6 +351,17 @@ export const portfolioData = {
       type: "Competition",
       icon: "fas fa-award",
       level: "Bronze"
+    },
+    {
+      id: 7,
+      title: "Encouragement Prize in the Creative Software Contest",
+      organization: "Department of Education and Training",
+      date: "2021",
+      description: "Awarded third prize for developing innovative software in the provincial creative software contest.",
+      category: "Development",
+      type: "Competition",
+      icon: "fas fa-lightbulb",
+      level: "Honorable Mention"
     }
   ]
   ,

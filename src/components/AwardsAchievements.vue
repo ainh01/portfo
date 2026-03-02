@@ -9,7 +9,7 @@
       <p class="section-subtitle">
         Recognition and milestones that highlight my journey in IT field
         <a href="https://drive.google.com/drive/u/4/folders/1j6vTMylJTG1v-T_Gmc2m_6idQT6FkDKQ"
-      class="section-subtitle"
+      class="section-subtitle" style="color:blue"
         target="_blank"
         >link Drive.
       </a>
